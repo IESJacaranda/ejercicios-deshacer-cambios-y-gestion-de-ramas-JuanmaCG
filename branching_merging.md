@@ -16,7 +16,7 @@ git init
 
 4. Crea un fichero llamado first.txt después añade y haz commit con un solo comando.
 
-touch first.txt && git add . && git commit -m "first commit"
+touch first.txt && git add first.txt && git commit -m "first commit"
 
 5. Crea una nueva rama llamada _**amazing_feature**_.
 
